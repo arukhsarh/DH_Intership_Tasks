@@ -22,5 +22,19 @@ The goal of this task was to analyze the Iris dataset using Python to understand
 3. **Box Plot**: Identified outliers in sepal width across different species.
 
 ---
+#  Loan Credit Risk Analysis Task
+
+## Task 2: Logistic Regression Model
+In this task, I performed data cleaning and built a machine learning model to predict whether a loan should be approved or rejected.
+
+###  Key Highlights:
+- **Model Used:** Logistic Regression 
+- **Accuracy Achieved:** 78.86% 
+- **Data Preprocessing:** Handled missing values (NaN) and converted categorical features into numeric format.
+- **Visualization:** Created a Confusion Matrix Heatmap to analyze model performance.
+
+###  Results:
+The model successfully predicts loan status with high precision for approved cases, as shown in the Confusion Matrix visualization within the notebook.
+
 **Author:** Rukhsar Saeed
 **Date:**  15 March 2026
