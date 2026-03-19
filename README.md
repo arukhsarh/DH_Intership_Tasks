@@ -36,5 +36,19 @@ In this task, I performed data cleaning and built a machine learning model to pr
 ###  Results:
 The model successfully predicts loan status with high precision for approved cases, as shown in the Confusion Matrix visualization within the notebook.
 
+#  Bank Customer Churn Prediction 
+
+## Objective
+The goal of this task was to identify which bank customers are likely to leave (churn) and understand the key factors influencing their decision.
+
+## Accomplishments
+- **Model Used:** Random Forest Classifier 
+- **Preprocessing:** Performed Label Encoding for categorical features like Gender and Geography.
+- **Analysis:** Generated a **Feature Importance** graph to visualize top churn drivers.
+
+## Key Insights
+- **Credit Score**, **Estimated Salary**, and **Balance** are the most significant predictors of customer churn.
+- **Geography** and **Gender** have relatively low impact on whether a customer stays or leaves.
+
 **Author:** Rukhsar Saeed
-**Date:**  15 March 2026
+**Date:**  19 March 2026
